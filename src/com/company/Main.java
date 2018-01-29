@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	System.out.println("hello world/n");
 	System.out.print("this is tru");
-	System.out.print("this is tru");
+	int fat = 50;
     }
 }
